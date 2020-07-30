@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "catalogomascotas", "catalogomascotas\", "{4752AE25-9D1A-4C1B-9A8D-76B4060D8951}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51500"
+		Debug.AspNetCompiler.PhysicalPath = "catalogomascotas\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51500\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51500"
+		Release.AspNetCompiler.PhysicalPath = "catalogomascotas\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51500\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51500"
+		SlnRelativePath = "catalogomascotas\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4752AE25-9D1A-4C1B-9A8D-76B4060D8951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4752AE25-9D1A-4C1B-9A8D-76B4060D8951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E247674-EA7F-4AAC-8EA1-723EEB712E83}
+	EndGlobalSection
+EndGlobal
